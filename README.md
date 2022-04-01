@@ -10,7 +10,7 @@ Xin chào. Tôi tên là Tuấn.
 <body>
    <a href="https://github.com/NguyenMinhTuan1208">Link lmao nè</a>
    <br><br>
-   <img src="http://webcoban.vn/image/sumo.jpg"></a>
+   <img src="http://webcoban.vn/image/sumo.jpg">
 
 </body>
 </html>
