@@ -1,2 +1,1 @@
-Xin chao
-Toi ten la Tuan
+Xin chào. Tôi tên là Tuấn.
