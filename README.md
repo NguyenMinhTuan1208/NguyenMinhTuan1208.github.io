@@ -8,8 +8,8 @@ Xin chào. Tôi tên là Tuấn.
    <meta charset="utf-8">
 </head>
 <body>
-   <a href="../image/hugo.jpg">Click here</a>
+   <a href="NguyenMinhTuan1208.github.io/mtuanvjppro.html">Click here</a>
    <br><br>
-   <a href="https://www.facebook.com"><img src="../image/sumo.jpg" style="width:300px"></a>
+
 </body>
 </html>
