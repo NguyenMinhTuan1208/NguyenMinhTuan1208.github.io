@@ -8,7 +8,7 @@ Xin chào. Tôi tên là Tuấn.
    <meta charset="utf-8">
 </head>
 <body>
-   <a href="NguyenMinhTuan1208.github.io/mtuanvjppro.html">Link lmao nè</a>
+   <a href="https://github.com/NguyenMinhTuan1208">Link lmao nè</a>
    <br><br>
 
 </body>
