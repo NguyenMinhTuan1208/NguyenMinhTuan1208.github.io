@@ -1,7 +1,19 @@
 Xin chào. Tôi tên là Tuấn.
 <html>
+	<head>
+  	<p>Your name:</p>
+
+<form>
+  <label for="fname">Họ</label>
+  <input type="text" id="fname" name="fname">
+  <label for="lname">Tên</label>
+  <input type="text" id="lname" name="lname">
+</form>
 <body>
   <body>
+	  body {
+    background-color: #93B874;
+}
   <style>
 div.a {
   text-align: center;
