@@ -1,12 +1,10 @@
 Xin chào. Tôi tên là Tuấn.
 <html>
 <body>
-<title>AnhNguyen</title>
 <html>
 <head>
   
-</style>
-   <title>trang web của tuấn</title>
+
 <meta name="robots" content="noindex">
 <meta name="googlebot" content="noindex">
    <meta charset="utf-8">
