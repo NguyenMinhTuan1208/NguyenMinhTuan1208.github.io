@@ -1,7 +1,7 @@
 Xin chào. Tôi tên là Tuấn.
 <html>
-	<head>
-  	<p>Your name:</p>
+  <head>
+    <p>Your name:</p>
 
 <form>
   <label for="fname">Họ</label>
@@ -10,11 +10,11 @@ Xin chào. Tôi tên là Tuấn.
   <input type="text" id="lname" name="lname">
 </form>
 <body>
-  <body>
-	  body {
+  
+  <style>
+    body {
     background-color: #93B874;
 }
-  <style>
 div.a {
   text-align: center;
 }
@@ -41,7 +41,7 @@ div.a {
 
 </body>
   <h1><mark>Thời khóa biểu</mark><h1>
-		<table border="1">
+    <table border="1">
             <tr>
                 <h3><th>THỨ 2</th>
                 <th>thứ 3</th>
@@ -66,6 +66,6 @@ div.a {
                 <td>Thiết kế quản trị website</td>
               <td>Cấu trúc dữ liệu</td></h3>
             </tr>
-        	</table>
+          </table>
 </html>
 
