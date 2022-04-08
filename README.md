@@ -26,7 +26,7 @@ div.a {
    
 
 </div>
-<head>
+
 </body>
   <h1><mark>Thời khóa biểu</mark><h1>
 		<table border="1">
