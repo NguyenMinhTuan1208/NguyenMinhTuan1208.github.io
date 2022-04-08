@@ -4,13 +4,7 @@ Xin chào. Tôi tên là Tuấn.
 <title>AnhNguyen</title>
 <html>
 <head>
-  <head>
-<style>
-body {
-    background-color: #93B874;
-}
-</style>
-<head>
+  
 </style>
    <title>trang web của tuấn</title>
 <meta name="robots" content="noindex">
@@ -22,33 +16,7 @@ body {
    <p><a href="https://nguyenminhtuan1208.github.io/mtuanvjppro.html">Tuấn giới thiệu sương sương</a></p>
    <br><br>
    <img src="https://i0.wp.com/1kgame.net/wp-content/uploads/2020/11/huong-dan-cach-build-bennett-trong-genshin-impact.jpg?w=1280&ssl=1">
-   <h1><mark>Thời khóa biểu</mark><h1>
-		<table border="1">
-            <tr>
-                <h3><th>THỨ 2</th>
-                <th>thứ 3</th>
-                <th>THỨ 4</th>
-                <th>thứ 5</th>
-                <th>THỨ 6</th>
-                <th>thứ 7</th>
-            </tr>
-            <tr>
-                <td>Python</td>
-                <td>Python</td>
-                <td>Lắp ráp máy tính</td>
-                <td></td>
-                <td>Thiết kế quản trị website</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>Thể dục</td>
-                <td>Tiếng anh CN</td>
-                <td>Cơ sở dữ liệu</td>
-                <td>Thiết kế quản trị website</td>
-              <td>Cấu trúc dữ liệu</td></h3>
-            </tr>
-        	</table>
+   
 
 
 </body>
