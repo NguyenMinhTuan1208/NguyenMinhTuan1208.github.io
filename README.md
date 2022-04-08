@@ -1,6 +1,14 @@
 Xin chào. Tôi tên là Tuấn.
 <html>
 <body>
+  <body>
+  <style>
+div.a {
+  text-align: center;
+}
+</style>
+
+<div class="a">
 <html>
 <head>
   
@@ -17,7 +25,7 @@ Xin chào. Tôi tên là Tuấn.
    <img src="https://i0.wp.com/1kgame.net/wp-content/uploads/2020/11/huong-dan-cach-build-bennett-trong-genshin-impact.jpg?w=1280&ssl=1">
    
 
-
+</div>
 </body>
 </html>
 
