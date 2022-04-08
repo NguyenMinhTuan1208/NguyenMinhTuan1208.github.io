@@ -27,5 +27,32 @@ div.a {
 
 </div>
 </body>
+  <h1><mark>Thời khóa biểu</mark><h1>
+		<table border="1">
+            <tr>
+                <h3><th>THỨ 2</th>
+                <th>thứ 3</th>
+                <th>THỨ 4</th>
+                <th>thứ 5</th>
+                <th>THỨ 6</th>
+                <th>thứ 7</th>
+            </tr>
+            <tr>
+                <td>Python</td>
+                <td>Python</td>
+                <td>Lắp ráp máy tính</td>
+                <td></td>
+                <td>Thiết kế quản trị website</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Thể dục</td>
+                <td>Tiếng anh CN</td>
+                <td>Cơ sở dữ liệu</td>
+                <td>Thiết kế quản trị website</td>
+              <td>Cấu trúc dữ liệu</td></h3>
+            </tr>
+        	</table>
 </html>
 
