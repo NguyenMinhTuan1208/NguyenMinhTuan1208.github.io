@@ -1,0 +1,18 @@
+p {
+
+ }
+ body{
+    background-image: url("https://cdn.wallpapersafari.com/78/17/8qYdu2.jpg");
+}
+.contaiter{
+    width: 327px;
+    margin: 0 auto;
+
+}
+h1 {
+    color:white;
+    background-color:rgb(28, 71, 211);
+    height: 40px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
