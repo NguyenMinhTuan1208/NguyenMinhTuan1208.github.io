@@ -19,7 +19,7 @@
      </div>
     
      <div class="kmrider">
-      <a href="https://anime47.com/phim/kamen-rider-decade/m2087.html"target="_blank"><img src="decade.png"style="float:right;width:200px;height: 200px;"></a>
+      <a href="https://anime47.com/phim/kamen-rider-decade/m2087.html"target="_blank"><img src="decade.png"style="float:right;width:201px;height: 201px;"></a>
       <a href="https://anime47.com/phim/kamen-rider-den-o/m2929.html"target="_blank"><img src="deno.png"style="float:right;width:200px;height: 200px;"></a>
       <a href="https://anime47.com/phim/kamen-rider-ex-aid/m5953.html"target="_blank"><img src="brave.png"style="float:right;width:200px;height: 200px;"></a>
       <a href="https://anime47.com/phim/kamen-rider-ryuki/m2320.html"target="_blank"><img src="ryuki.png"style="float:right;width:200px;height: 200px;"></a>
