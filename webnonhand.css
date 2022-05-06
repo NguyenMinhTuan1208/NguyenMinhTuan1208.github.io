@@ -1,6 +1,9 @@
 
  body{
-    background-image: url("https://hinhnen123.com/wp-content/uploads/2021/07/background-dep-sieu-an-tuong-9-3.jpg");
+    background-image: url("https://i.pinimg.com/originals/7f/e7/74/7fe774bbacce09f00cb5b2e3cbc48db3.png");
+}
+p {
+    font-style: Libre Franklin;
 }
 .contaiter{
     width: 327px;
@@ -20,7 +23,11 @@ h1 {
    padding: 0px 15px; 
    border: 1px solid;
    width: 15%;
-   color: #63717f;
+   color: white;
+}
+h3 {
+    color: white;
+
 }
 .main{
     text-align: center;
@@ -114,6 +121,25 @@ body{
      flex-direction: column;
      background: url(https://niemvuilaptrinh.ams3.cdn.digitaloceanspaces.com/tao_footer_cho_website/Aare.svg);
  }
+.footer {
+    padding-top: 160px;
+    border-top: 200px ;
+    color: white;
+    width: 100% 
+}
+.footer__heading {
+    font-size: 1.4rem:
+    text-transform: uppercase;
+    color: var(--text-color);
+}
+.footer-list {
+    padding-left: 0;
+    list-style: none;
+
+    
+
+
+}
 
 }
 
